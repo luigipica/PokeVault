@@ -1,0 +1,1 @@
+{"name":"PokéVault – Collezione Pokémon","short_name":"PokéVault","description":"Scansiona, cataloga e controlla il valore indicativo delle carte Pokémon.","start_url":"./","scope":"./","display":"standalone","background_color":"#0b1120","theme_color":"#101725","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
